@@ -1,0 +1,25 @@
+{
+  "name": "projet-efrei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3",
+    "vue": "^3.2.47",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "eslint": "^8.0.0"
+  }
+}
